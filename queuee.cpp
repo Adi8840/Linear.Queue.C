@@ -1,3 +1,4 @@
+//This program is written in C language(#ADITYA RAJPOOT);
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
